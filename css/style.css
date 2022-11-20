@@ -21,7 +21,7 @@ h2 {
     font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 450;
-    font-size: min(5vw, 50px);
+    font-size: min(4vw, 40px);
     line-height: 40px;
     color: #ffffff;
     margin-left: auto;
@@ -63,41 +63,4 @@ h2 {
     margin-right: auto;
     min-height: 415px;
     width: 80%;
-}
-
-#icon1{
-    position: absolute;
-    height: 60px;
-    left: 780px;
-    top: 5700px;
-}
-#icon1:active{
-    transform: scale(0.9);
-}
-#icon2{
-    position: absolute;
-    height: 60px;
-    left: 700px;
-    top: 5700px;
-}
-#icon2:active{
-    transform: scale(0.9);
-}
-#icon3{
-    position: absolute;
-    height: 60px;
-    left: 880px;
-    top: 5700px;
-}
-#icon3:active{
-    transform: scale(0.9);
-}
-#icon4{
-    position: absolute;
-    height: 70px;
-    left: 976px;
-    top: 5695px;
-}
-#icon3:active{
-    transform: scale(0.9);
 }
