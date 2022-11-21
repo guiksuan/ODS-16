@@ -3,12 +3,20 @@
     <parte1>
 
     <img-mao>mao.png</img-mao>
-    <img-ods>ods-16.png</ods-mao>
-     <titulo> que são os ODS?</titulo>
+    <img-ods>ods16.png</img-ods>
+     <titulo1>O que são os ODS?</titulo1>
 
     </parte1>
     <parte2>
-         <titulo> ODS-16</titulo>
-          <img1>img/img1.jpg<img1>
+         <titulo2> ODS-16</titulo2>
+          <img1>img1.jpg</img1>
+          <texto1>A ods 16 fala sobre “promover sociedades pacíficas e inclusivas para o desenvolvimento sustentável”. Isto também envolve a garantia de que todas as pessoas tenham acesso à justiça e o fortalecimento das instituições.</texto1>
+          <texto2>
+            Está no terceiro artigo da Declaração Universal dos Direitos Humanos: “Todo ser humano tem direito à vida, à liberdade e à segurança pessoal”. Garantir estes direitos significa promover uma transformação: de uma cultura de violência para uma cultura de paz. E essa transformação precisa permear todas as relações, em todos os lugares.
+          </texto2>
     </parte2>
+    <parte3>
+      <titulo3>Objetivo no mundo</titulo3>
+      <meta1>16.1 - Reduzir significativamente todas as formas de violência e as taxas de mortalidade relacionada em todos os lugares.</meta1>
+    </parte3>
    </conteudo>
