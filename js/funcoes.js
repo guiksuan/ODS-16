@@ -1,54 +1,24 @@
+//Criar uma variável para manipular o XML
 xmlhttp = new XMLHttpRequest();
-xmlhttp.open("GET", "xml/conteudo.xml", false);
+//Seleciona o arquivo XML
+xmlhttp.open("GET","xml/conteudo.xml",false);
+//Enviar o arquivo para a leitura
 xmlhttp.send();
+//Informar que o arquivo enviado é um XML
 xmlDoc = xmlhttp.responseXML;
-x = xmlDoc.getElementsByTagName("conteudo");
-function titulo1() {
-    for (i = x.length - 1; i >= 0; i--) {
-        document.write("<h1 class='text-center mt-3'>" +
-            x[i].getElementsByTagName("titulo1")[0].childNodes[0].nodeValue +
-            "</h1>");
-    }
-}
 
-function titulo2() {
-    for (i = x.length - 1; i >= 0; i--) {
-        document.write("<h1 class='text-center'>" +
-            x[i].getElementsByTagName("titulo2")[0].childNodes[0].nodeValue +
-            "</h1>");
-    }
-}
+x = xmlDoc.getElementsByTagName("conteudo")
+y = xmlDoc.getElementsByTagName("noticia")
 
-
-function texto1() {
-    for (i = x.length - 1; i >= 0; i--) {
-        document.write("<h2 class='mt-5 pt-5'>" +
-            x[i].getElementsByTagName("texto1")[0].childNodes[0].nodeValue +
-            "</h2>");
-    }
-}
-
-function texto2() {
-    for (i = x.length - 1; i >= 0; i--) {
-        document.write("<h2 class='mt-5 pt-4'>" +
-            x[i].getElementsByTagName("texto2")[0].childNodes[0].nodeValue +
-            "</h2>");
-    }
-}
-
-
-function titulo3() {
-    for (i = x.length - 1; i >= 0; i--) {
-        document.write("<h1 class='pt2 text-center mt-5'>" +
-            x[i].getElementsByTagName("titulo3")[0].childNodes[0].nodeValue +
-            "</h1>");
-    }
-}
-
-function meta1() {
-    for (i = x.length - 1; i >= 0; i--) {
-        document.write("<p>" +
-            x[i].getElementsByTagName("meta1")[0].childNodes[0].nodeValue +
-            "</p>");
-    }
+function porra(){
+    document.write(
+        "<div class='row d-flex px-2 my-4'>" +
+          "<div id='title-text-color' class='d-flex col-6 col-md-12 justify-content-center h2'>" +
+          x[i].getElementsByTagName("titulo1")[0].childNodes[0].nodeValue +
+          "</div>" +
+        "</div>" +
+        "<div class='container'>" +
+           "<a class='h4 text-decoration-none text-light'>" + x[i].getElementsByTagName("corpo")[0].childNodes[0].nodeValue + "</a>" +
+        "</div>"
+    );
 }

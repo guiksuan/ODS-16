@@ -3,20 +3,29 @@
     <parte1>
 
     <img-mao>mao.png</img-mao>
-    <img-ods>ods16.png</img-ods>
-     <titulo1>O que são os ODS?</titulo1>
+    <img-ods>ods-16.png</ods-mao>
+     <titulo>O que são os ODS?</titulo>
 
     </parte1>
     <parte2>
-         <titulo2> ODS-16</titulo2>
-          <img1>img1.jpg</img1>
-          <texto1>A ods 16 fala sobre “promover sociedades pacíficas e inclusivas para o desenvolvimento sustentável”. Isto também envolve a garantia de que todas as pessoas tenham acesso à justiça e o fortalecimento das instituições.</texto1>
-          <texto2>
-            Está no terceiro artigo da Declaração Universal dos Direitos Humanos: “Todo ser humano tem direito à vida, à liberdade e à segurança pessoal”. Garantir estes direitos significa promover uma transformação: de uma cultura de violência para uma cultura de paz. E essa transformação precisa permear todas as relações, em todos os lugares.
-          </texto2>
+         <titulo>ODS-16</titulo>
+          <img1>img1.jpg<img1>
     </parte2>
-    <parte3>
-      <titulo3>Objetivo no mundo</titulo3>
-      <meta1>16.1 - Reduzir significativamente todas as formas de violência e as taxas de mortalidade relacionada em todos os lugares.</meta1>
-    </parte3>
-   </conteudo>
+
+ 
+    <noticia codigo="1">
+      <titulo1>O Brasil está proximo da paz?</titulo1>
+      <corpo>infelizmente, o brasil está bem longe da paz. Uma pesquisa realizada no ano de 2021 pela global peace index (gpi), um ranking que mede a paz mundial, coloca o brasil na 128ª posição entre 163 países, atrás de nações que viveram crises violentas no ano passado, como azerbaijão e belarus.</corpo>
+    </noticia>
+
+    <noticia codigo="2">
+      <titulo1>Guterres pede consenso global pela paz e segurança coletivas</titulo1>
+      <corpo>Secretário-geral da ONU falou ao Conselho de Segurança sobre visita à Ucrânia, Turquia e Moldávia e destacou avanços da Iniciativa de Grãos do Mar Negro; ele cita acordo como exemplo que pode ser replicado em Zaporizhzhia; chefe das Nações Unidas volta a pedir o fim das armas nucleares.</corpo>
+    </noticia>
+
+    <noticia codigo="3">
+      <titulo1>A Ods-16</titulo1>
+      <corpo>Ods-16 pretende fortalecer as instituições nacionais relevantes, inclusive por meio da cooperação internacional, para a construção de capacidades em todos os níveis, em particular nos países em desenvolvimento, para a prevenção da violência e o combate ao terrorismo e ao crime</corpo>
+    </noticia>
+ 
+  </conteudo>  
