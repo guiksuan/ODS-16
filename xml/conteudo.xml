@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <conteudo> 
 
-<postagem codigo="10">
+<postagem codigo="11=">
 <titulo-blog>Soluções do Justiça 4.0 são destaques em evento sobre segurança cidadã</titulo-blog>
 <img-blog>foto_participantes.jpg</img-blog>
 <corpo-blog>A governança de dados e a experiência de sistemas judiciários voltados a sua organização e tratamento atravessaram as discussões da I Semana de la Seguridad Ciudadana, realizada</corpo-blog>
@@ -80,4 +80,4 @@ O primeiro curso, chamado “Estilos de vida sustentáveis”, trata de temas qu
 O conteúdo dos dois cursos é disponibilizado no portal Educa+, plataforma 100% digital de ensino a distância do Ministério do Meio Ambiente. Para se inscrever, os interessados precisam acessar o portal ead.mma.gov.br, clicar em “Inscrições abertas”, selecionar o curso e clicar em “inscreva-se”.</corpo>
 <imgpostagem>sustenta.jpg</imgpostagem>    
 </noticia>
-</conteudo>  
+</conteudo> 
