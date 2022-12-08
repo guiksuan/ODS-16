@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <conteudo> 
-  <parte1>
-    <img-mao>mao.png</img-mao>
-    <img-ods>ods-16.png</ods-mao>
-    <titulo>O que são os ODS?</titulo>
-  </parte1>
-  <parte2>
-    <titulo>ODS-16</titulo>
-      <img1>img1.jpg<img1>
-  </parte2>
 
- 
-<noticia>
-<imgpostagem>foto_participantes.jpg</imgpostagem>
+<postagem codigo="10">
+<titulo-blog>Soluções do Justiça 4.0 são destaques em evento sobre segurança cidadã</titulo-blog>
+<img-blog>foto_participantes.jpg</img-blog>
+<corpo-blog>A governança de dados e a experiência de sistemas judiciários voltados a sua organização e tratamento atravessaram as discussões da I Semana de la Seguridad Ciudadana, realizada</corpo-blog>
+</postagem>
+
+<postagem codigo="11">
+<titulo-blog>ONU marca Dia Mundial contra abuso e violência sexual infantil pela primeira vez</titulo-blog>
+<img-blog>criancasabusadas.jpg</img-blog>
+<corpo-blog>Neste 18 de novembro, as Nações Unidas marcam pela primeira vez o Dia Mundial para a Prevenção e Cura da Exploração, Abuso e Violência Sexual Infantil. A data foi aprovada pela Assembleia</corpo-blog>
+</postagem>
+
+<postagem codigo="12">
+<titulo-blog>Ministério abre inscrição para cursos sobre sustentabilidade</titulo-blog>
+<img-blog>sustenta.jpg</img-blog>
+<corpo-blog>O Ministério do Meio Ambiente está com inscrições abertas para dois cursos sobre práticas de sustentabilidade no cotidiano. As inscrições são gratuitas e os cursos vão até 15 de julho. No total, serão oferecidas 2 mil vagas</corpo-blog>
+</postagem>
+
+<noticia codigo="1">
 <titulo>Soluções do Justiça 4.0 são destaques em evento sobre segurança cidadã</titulo>
 <data>nov 28, 2022</data>
 <fonte>Fonte: https://brasil.un.org/pt-br/209259-solucoes-do-justica-40-sao-destaques-em-evento-sobre-seguranca-cidada</fonte>
@@ -39,11 +46,10 @@ O coordenador da RedRija apresentou o Mapa de Portales de Datos Abiertos de Acce
 Segundo Herrero, diferentes segmentos de Justiça publicam suas informações no portal. “Gradualmente, cresceu essa comunidade de dados abertos horizontalmente – comunidade de práticas, com ativistas e instituições criando espaços de diálogo, compartilhando experiências e impulsionando a agenda de dados abertos em cada um dos países”.
 
 Entre os desafios ao uso de dados abertos judiciais, Herrero sinaliza o desenho de uma política de dados. “Podemos avançar com um marco normativo, uma autoridade em matéria de dados. Desenhar uma política de dados – um conjunto de diretrizes que estabeleça o que esperamos de segurança, privacidade e qualidade dos dados”, argumentou.</corpo>
-<imagem>foto_participantes.jpg</imagem>
+<imgpostagem>foto_participantes.jpg</imgpostagem>
 </noticia>
 
-<noticia>
-<imgpostagem>criancasabusadas.jpg</imgpostagem>
+<noticia codigo="2">
 <titulo>ONU marca Dia Mundial contra abuso e violência sexual infantil pela primeira vez</titulo>
 <data>nov 18, 2022</data>
 <fonte>Fonte: https://news.un.org/pt/story/2022/11/1805567</fonte>
@@ -60,11 +66,10 @@ A primeira-dama de Serra Leoa expressou esperança de que a celebração aumente
 A resolução que proclama a data lembra que a Agenda 2030 para o Desenvolvimento Sustentável coloca a dignidade das crianças e seu direito de viver livre de violência como uma prioridade.
 
 A agenda global prevê o fim de práticas como exploração, abuso, tráfico, tortura e todas as formas de violência contra crianças, bem como o casamento infantil, precoce e forçado e a mutilação genital feminina, que colocam as crianças em risco de sofrer exploração, abuso e violência sexual infantil.</corpo>
-<imagem>criancasabusadas.jpg</imagem>
+<imgpostagem>criancasabusadas.jpg</imgpostagem>
 </noticia>
  
-<noticia>
-<imgpostagem>sustenta.jpg</imgpostagem>
+<noticia codigo="3">
 <titulo>Ministério abre inscrição para cursos sobre sustentabilidade</titulo>
 <data>jun 11, 2022</data>
 <fonte>Fonte: https://agenciabrasil.ebc.com.br/geral/noticia/2022-06/ministerio-abre-inscricao-para-cursos-sobre-sustentabilidade</fonte>
@@ -73,6 +78,6 @@ A agenda global prevê o fim de práticas como exploração, abuso, tráfico, to
 O primeiro curso, chamado “Estilos de vida sustentáveis”, trata de temas que vão desde meios de transporte sustentáveis e dicas práticas para serem aplicadas no dia a dia, até técnicas de economia de água e energia. O segundo, que trata sobre produção e consumo sustentáveis, busca sensibilizar profissionais, estudantes e cidadãos em geral sobre a inserção de critérios de sustentabilidade nas relações de oferta e demanda de produtos e serviços. Entre os temas abordados no curso estão a construção sustentável, a logística reversa e boas práticas para a sustentabilidade energética. 
 
 O conteúdo dos dois cursos é disponibilizado no portal Educa+, plataforma 100% digital de ensino a distância do Ministério do Meio Ambiente. Para se inscrever, os interessados precisam acessar o portal ead.mma.gov.br, clicar em “Inscrições abertas”, selecionar o curso e clicar em “inscreva-se”.</corpo>
-<imagem>sustenta.jpg</imagem>    
+<imgpostagem>sustenta.jpg</imgpostagem>    
 </noticia>
 </conteudo>  
