@@ -1,31 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <conteudo> 
-    <parte1>
-
+<conteudo> 
+  <parte1>
     <img-mao>mao.png</img-mao>
     <img-ods>ods-16.png</ods-mao>
-     <titulo>O que são os ODS?</titulo>
-
-    </parte1>
-    <parte2>
-         <titulo>ODS-16</titulo>
-          <img1>img1.jpg<img1>
-    </parte2>
+    <titulo>O que são os ODS?</titulo>
+  </parte1>
+  <parte2>
+    <titulo>ODS-16</titulo>
+      <img1>img1.jpg<img1>
+  </parte2>
 
  
-    <noticia codigo="1">
-      <titulo1>O Brasil está proximo da paz?</titulo1>
-      <corpo>infelizmente, o brasil está bem longe da paz. Uma pesquisa realizada no ano de 2021 pela global peace index (gpi), um ranking que mede a paz mundial, coloca o brasil na 128ª posição entre 163 países, atrás de nações que viveram crises violentas no ano passado, como azerbaijão e belarus.</corpo>
-    </noticia>
+<noticia>
+<imgpostagem>foto_participantes.jpg</imgpostagem>
+<titulo>Soluções do Justiça 4.0 são destaques em evento sobre segurança cidadã</titulo>
+<data>nov 28, 2022</data>
+<fonte>Fonte: https://brasil.un.org/pt-br/209259-solucoes-do-justica-40-sao-destaques-em-evento-sobre-seguranca-cidada</fonte>
+<corpo>A governança de dados e a experiência de sistemas judiciários voltados a sua organização e tratamento atravessaram as discussões da I Semana de la Seguridad Ciudadana, realizada na Guatemala no âmbito do Projeto Regional Infosegura, uma parceria entre a Agência dos Estados Unidos para o Desenvolvimento Internacional (USAID) e o Programa das Nações Unidas para o Desenvolvimento (PNUD).
 
-    <noticia codigo="2">
-      <titulo1>Guterres pede consenso global pela paz e segurança coletivas</titulo1>
-      <corpo>Secretário-geral da ONU falou ao Conselho de Segurança sobre visita à Ucrânia, Turquia e Moldávia e destacou avanços da Iniciativa de Grãos do Mar Negro; ele cita acordo como exemplo que pode ser replicado em Zaporizhzhia; chefe das Nações Unidas volta a pedir o fim das armas nucleares.</corpo>
-    </noticia>
+O Projeto Justiça 4.0, parceria entre CNJ e PNUD, foi apresentado em um dos painéis, detalhando as soluções desenvolvidas. “Sabemos a importância de ter acesso a dados e o que fazer com eles. No universo de 91 tribunais no Brasil, a padronização e uniformização de dados é muito importante”, ressaltou o diretor de projetos na Diretoria de Tecnologia da Informação (DTI) do CNJ, Leonardo Lemes.
 
-    <noticia codigo="3">
-      <titulo1>A Ods-16</titulo1>
-      <corpo>Ods-16 pretende fortalecer as instituições nacionais relevantes, inclusive por meio da cooperação internacional, para a construção de capacidades em todos os níveis, em particular nos países em desenvolvimento, para a prevenção da violência e o combate ao terrorismo e ao crime</corpo>
-    </noticia>
+“A oportunidade de participar em eventos de relevância internacional e trocar experiências com colegas de governos federais, estaduais e municipais, além de outras agências internacionais, enriquece os diálogos sobre transparência e inovação na realização de políticas mais cidadãs, e fortalece nossa atuação rumo ao desenvolvimento sustentável”, observa a coordenadora da Unidade de Governança e Justiça do PNUD no Brasil, Moema Freire.
+
+No encontro na Guatemala, Lemes destacou o projeto da Base Nacional de Dados do Poder Judiciário, o DataJud, que armazena dados e metadados de processos físicos e eletrônicos enviados pelos tribunais para o CNJ e que oferece insumos para o Painel de Estatísticas e o Painel dos Grandes Litigantes. Lemes apresentou também o Codex, plataforma que, entre outros benefícios, automatizará o trabalho dos tribunais no envio de dados ao DataJud.
+
+“O Codex é o futuro DataJud. Ele permitirá fazer a busca de dados diretamente nas bases dos tribunais. A ferramenta está em implementação e tornará possível a gestão de dados para impulsionar o uso de Inteligência Artificial (IA) pelos tribunais e outras políticas judiciárias”, explicou.  
+
+De acordo com Lemes, o Judiciário brasileiro reúne 111 projetos de Inteligência Artificial. “O número de iniciativas de IA no Poder Judiciário vem crescendo, e o CNJ, com a plataforma Sinapses, tem papel fundamental como orquestrador dos tribunais”, afirmou. O Painel de Projetos de IA do Poder Judiciário exibe detalhes de levantamento feito pelo CNJ, que mapeou as iniciativas de Inteligência Artificial desenvolvidas e em uso nos tribunais brasileiros.  
+
+Honduras – O Sistema de Estatísticas Judiciais de Honduras foi outra experiência de destaque do evento. O projeto assemelha-se ao DataJud. Nohelia Vásquez, da Unidad de Estadísticas del Poder Judicial daquele país, falou da experiência de construção da ferramenta,  lançada no último 23 de novembro. “Testemunhei várias tentativas de obter um sistema que permitisse manejar os dados, evitando trabalhar de modo manual, e que fosse capaz de fornecer informações de forma rápida e acessível para os usuários”, disse.
+
+Segundo Vásquez, 100% das bases de dados foram revisadas, e a solução desenvolvida pela Justiça de Honduras permitirá fornecer dados a usuários externos em até 24 horas desde o pedido, o que antes era feito em 10 dias úteis. “Os cidadãos são beneficiados com acesso à informação para a tomada de decisão e a criação de políticas”, salientou.
+
+Dados como ativos – “Temos que começar a trabalhar em governança de dados. Pensar nos ativos de dados como um bem precioso, que nos ajuda a tomar decisões sobre políticas públicas”, defendeu o coordenador-executivo da Rede de Justiça Aberta (RedRija), Álvaro Herrero. Para ele, transparência, participação social e colaboração são conceitos que sustentam a prática de dados abertos.
+
+O coordenador da RedRija apresentou o Mapa de Portales de Datos Abiertos de Acceso a la Justicia, que permite visualizar dados judiciais de diferentes países da América Latina e do Caribe de forma rápida e acessível.
+
+Segundo Herrero, diferentes segmentos de Justiça publicam suas informações no portal. “Gradualmente, cresceu essa comunidade de dados abertos horizontalmente – comunidade de práticas, com ativistas e instituições criando espaços de diálogo, compartilhando experiências e impulsionando a agenda de dados abertos em cada um dos países”.
+
+Entre os desafios ao uso de dados abertos judiciais, Herrero sinaliza o desenho de uma política de dados. “Podemos avançar com um marco normativo, uma autoridade em matéria de dados. Desenhar uma política de dados – um conjunto de diretrizes que estabeleça o que esperamos de segurança, privacidade e qualidade dos dados”, argumentou.</corpo>
+<imagem>foto_participantes.jpg</imagem>
+</noticia>
+
+<noticia>
+<imgpostagem>criancasabusadas.jpg</imgpostagem>
+<titulo>ONU marca Dia Mundial contra abuso e violência sexual infantil pela primeira vez</titulo>
+<data>nov 18, 2022</data>
+<fonte>Fonte: https://news.un.org/pt/story/2022/11/1805567</fonte>
+<corpo>Neste 18 de novembro, as Nações Unidas marcam pela primeira vez o Dia Mundial para a Prevenção e Cura da Exploração, Abuso e Violência Sexual Infantil. A data foi aprovada pela Assembleia Geral neste mês, com uma resolução proposta por Serra Leoa.
+
+Quem apresentou o texto foi a primeira-dama do país, Fatima Maada Bio. Em seu discurso ao órgão da ONU, ela disse que os casos de abuso sexual infantil contribuem, para a carga global de doenças e afetam o desenvolvimento econômico e social, especialmente nos países em desenvolvimento.
+
+Abuso infantil
+
+Na data, a ONU deve enfatizar a necessidade de prevenção dos crimes e atuar para que os responsáveis pelos atos sejam levados à justiça, bem como para que as vítimas tenham voz como parte do longo processo de cura.
+
+A primeira-dama de Serra Leoa expressou esperança de que a celebração aumente a conscientização sobre o abuso sexual infantil, mobilize governos e sociedade civil para promover a compreensão, agir e ajudar a eliminar a vergonha e o estigma.
+
+A resolução que proclama a data lembra que a Agenda 2030 para o Desenvolvimento Sustentável coloca a dignidade das crianças e seu direito de viver livre de violência como uma prioridade.
+
+A agenda global prevê o fim de práticas como exploração, abuso, tráfico, tortura e todas as formas de violência contra crianças, bem como o casamento infantil, precoce e forçado e a mutilação genital feminina, que colocam as crianças em risco de sofrer exploração, abuso e violência sexual infantil.</corpo>
+<imagem>criancasabusadas.jpg</imagem>
+</noticia>
  
-  </conteudo>  
+<noticia>
+<imgpostagem>sustenta.jpg</imgpostagem>
+<titulo>Ministério abre inscrição para cursos sobre sustentabilidade</titulo>
+<data>jun 11, 2022</data>
+<fonte>Fonte: https://agenciabrasil.ebc.com.br/geral/noticia/2022-06/ministerio-abre-inscricao-para-cursos-sobre-sustentabilidade</fonte>
+<corpo>O Ministério do Meio Ambiente está com inscrições abertas para dois cursos sobre práticas de sustentabilidade no cotidiano. As inscrições são gratuitas e os cursos vão até 15 de julho. No total, serão oferecidas 2 mil vagas em cada um.
+
+O primeiro curso, chamado “Estilos de vida sustentáveis”, trata de temas que vão desde meios de transporte sustentáveis e dicas práticas para serem aplicadas no dia a dia, até técnicas de economia de água e energia. O segundo, que trata sobre produção e consumo sustentáveis, busca sensibilizar profissionais, estudantes e cidadãos em geral sobre a inserção de critérios de sustentabilidade nas relações de oferta e demanda de produtos e serviços. Entre os temas abordados no curso estão a construção sustentável, a logística reversa e boas práticas para a sustentabilidade energética. 
+
+O conteúdo dos dois cursos é disponibilizado no portal Educa+, plataforma 100% digital de ensino a distância do Ministério do Meio Ambiente. Para se inscrever, os interessados precisam acessar o portal ead.mma.gov.br, clicar em “Inscrições abertas”, selecionar o curso e clicar em “inscreva-se”.</corpo>
+<imagem>sustenta.jpg</imagem>    
+</noticia>
+</conteudo>  
